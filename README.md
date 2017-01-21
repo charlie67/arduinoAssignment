@@ -1,2 +1,2 @@
 # arduinoAssignment
-My CS12020 assignemnt based on the CAM code Arduino shield
+My CS12020 assignment based on the CAM code Arduino shield
